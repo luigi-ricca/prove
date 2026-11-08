@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://luigi-ricca.github.io/prove/dissonanze/",
+            "url": "https://luigi-ricca.github.io/prove/dissonanze/",
+            "title": "Dissonanze",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://luigi-ricca.github.io/prove/media/posts/5/calciatore.svg\" alt=\"\" width=\"715.716492\" height=\"1428.000000\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://luigi-ricca.github.io/prove/media/posts/5/basta.png\" alt=\"\" width=\"1080\" height=\"1080\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://luigi-ricca.github.io/prove/media/posts/5/responsive/basta-xs.png 300w ,https://luigi-ricca.github.io/prove/media/posts/5/responsive/basta-sm.png 480w ,https://luigi-ricca.github.io/prove/media/posts/5/responsive/basta-md.png 768w ,https://luigi-ricca.github.io/prove/media/posts/5/responsive/basta-lg.png 1024w\"></figure>",
+            "image": "https://luigi-ricca.github.io/prove/media/posts/5/donna-ombrello.jpg",
+            "author": {
+                "name": "L"
+            },
+            "tags": [
+                   "pollo",
+                   "nuovo",
+                   "culo"
+            ],
+            "date_published": "2026-11-08T15:40:11+01:00",
+            "date_modified": "2026-11-08T15:40:11+01:00"
+        },
+        {
             "id": "https://luigi-ricca.github.io/prove/galleria/",
             "url": "https://luigi-ricca.github.io/prove/galleria/",
             "title": "galleria",

@@ -3,12 +3,34 @@
     <title>Luix</title>
     <link href="https://luigi-ricca.github.io/prove/feed.xml" rel="self" />
     <link href="https://luigi-ricca.github.io/prove" />
-    <updated>2026-11-07T17:38:00+01:00</updated>
+    <updated>2026-11-08T15:40:11+01:00</updated>
     <author>
         <name>L</name>
     </author>
     <id>https://luigi-ricca.github.io/prove</id>
 
+    <entry>
+        <title>Dissonanze</title>
+        <author>
+            <name>L</name>
+        </author>
+        <link href="https://luigi-ricca.github.io/prove/dissonanze/"/>
+        <id>https://luigi-ricca.github.io/prove/dissonanze/</id>
+        <media:content url="https://luigi-ricca.github.io/prove/media/posts/5/donna-ombrello.jpg" medium="image" />
+            <category term="pollo"/>
+            <category term="nuovo"/>
+            <category term="culo"/>
+
+        <updated>2026-11-08T15:40:11+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://luigi-ricca.github.io/prove/media/posts/5/donna-ombrello.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://luigi-ricca.github.io/prove/media/posts/5/calciatore.svg" alt="" width="715.716492" height="1428.000000"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://luigi-ricca.github.io/prove/media/posts/5/basta.png" alt="" width="1080" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://luigi-ricca.github.io/prove/media/posts/5/responsive/basta-xs.png 300w ,https://luigi-ricca.github.io/prove/media/posts/5/responsive/basta-sm.png 480w ,https://luigi-ricca.github.io/prove/media/posts/5/responsive/basta-md.png 768w ,https://luigi-ricca.github.io/prove/media/posts/5/responsive/basta-lg.png 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>galleria</title>
         <author>
