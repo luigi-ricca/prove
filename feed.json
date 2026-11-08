@@ -1,0 +1,44 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Luix",
+    "description": "",
+    "home_page_url": "https://luigi-ricca.github.io/prove",
+    "feed_url": "https://luigi-ricca.github.io/prove/feed.json",
+    "user_comment": "",
+    "icon": "https://luigi-ricca.github.io/prove/media/website/Lumaca-LR.png",
+    "author": {
+        "name": "L"
+    },
+    "items": [
+        {
+            "id": "https://luigi-ricca.github.io/prove/galleria/",
+            "url": "https://luigi-ricca.github.io/prove/galleria/",
+            "title": "galleria",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"3\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://luigi-ricca.github.io/prove/media/posts/3/gallery/prova-cop-ill-polacca_1.jpg\" data-size=\"x\"><img loading=\"lazy\" src=\"https://luigi-ricca.github.io/prove/media/posts/3/gallery/prova-cop-ill-polacca_1-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1006\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://luigi-ricca.github.io/prove/media/posts/3/gallery/prova-cop-ill-polacca_2.jpg\" data-size=\"x\"><img loading=\"lazy\" src=\"https://luigi-ricca.github.io/prove/media/posts/3/gallery/prova-cop-ill-polacca_2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1006\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://luigi-ricca.github.io/prove/media/posts/3/gallery/prova-cop-ill-polacca_3.jpg\" data-size=\"x\"><img loading=\"lazy\" src=\"https://luigi-ricca.github.io/prove/media/posts/3/gallery/prova-cop-ill-polacca_3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1006\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://luigi-ricca.github.io/prove/media/posts/3/gallery/prova-cop-ill-polacca_4.jpg\" data-size=\"x\"><img loading=\"lazy\" src=\"https://luigi-ricca.github.io/prove/media/posts/3/gallery/prova-cop-ill-polacca_4-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1006\"></a></figure>\n</div></div>",
+            "image": "https://luigi-ricca.github.io/prove/media/posts/3/Scuola-taglio.png",
+            "author": {
+                "name": "L"
+            },
+            "tags": [
+                   "pollo"
+            ],
+            "date_published": "2026-11-07T12:24:19+01:00",
+            "date_modified": "2026-11-07T17:38:00+01:00"
+        },
+        {
+            "id": "https://luigi-ricca.github.io/prove/boh/",
+            "url": "https://luigi-ricca.github.io/prove/boh/",
+            "title": "boh",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://luigi-ricca.github.io/prove/media/posts/2/vulcano-sovietico.png\" alt=\"\" width=\"959\" height=\"400\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://luigi-ricca.github.io/prove/media/posts/2/responsive/vulcano-sovietico-xs.png 300w ,https://luigi-ricca.github.io/prove/media/posts/2/responsive/vulcano-sovietico-sm.png 480w ,https://luigi-ricca.github.io/prove/media/posts/2/responsive/vulcano-sovietico-md.png 768w ,https://luigi-ricca.github.io/prove/media/posts/2/responsive/vulcano-sovietico-lg.png 1024w\"></figure>",
+            "image": "https://luigi-ricca.github.io/prove/media/posts/2/vulcano-sovietico-2.png",
+            "author": {
+                "name": "L"
+            },
+            "tags": [
+                   "culo"
+            ],
+            "date_published": "2026-11-07T12:10:26+01:00",
+            "date_modified": "2026-11-07T17:37:44+01:00"
+        }
+    ]
+}
